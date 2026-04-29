@@ -1,0 +1,152 @@
+[
+{
+  "pos_x": 7, 
+  "pos_y": 160, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 33.04
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 121.32
+    }, 
+    {
+      "y": 2, 
+      "x": 0, 
+      "value": 133.26
+    }, 
+    {
+      "y": 3, 
+      "x": 0, 
+      "value": 103.75
+    }, 
+    {
+      "y": 4, 
+      "x": 0, 
+      "value": 38.06
+    }, 
+    {
+      "y": 5, 
+      "x": 0, 
+      "value": 5.43
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 4.45
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 8.67
+    }, 
+    {
+      "y": 3, 
+      "x": 1, 
+      "value": 23.05
+    }, 
+    {
+      "y": 4, 
+      "x": 1, 
+      "value": 48.28
+    }, 
+    {
+      "y": 5, 
+      "x": 1, 
+      "value": 129.72
+    }, 
+    {
+      "y": 6, 
+      "x": 1, 
+      "value": 6.49
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_straight", 
+    "cluster_class": 5
+  }
+},
+{
+  "pos_x": 32, 
+  "pos_y": 40, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 7.3
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 89.18
+    }, 
+    {
+      "y": 2, 
+      "x": 0, 
+      "value": 7.2
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 43.84
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 15.38
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 158, 
+  "pos_y": 49, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 5.42
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 221, 
+  "pos_y": 214, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 142.63
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 53.91
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 120.46
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 114.98
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+}
+]

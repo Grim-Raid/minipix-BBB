@@ -1,0 +1,32 @@
+[
+{
+  "pos_x": 128, 
+  "pos_y": 240, 
+  "pixels": [
+    {
+      "y": 2, 
+      "x": 0, 
+      "value": 8.51
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 45.57
+    }, 
+    {
+      "y": 0, 
+      "x": 2, 
+      "value": 17.22
+    }, 
+    {
+      "y": 0, 
+      "x": 3, 
+      "value": 4.66
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_curly", 
+    "cluster_class": 6
+  }
+}
+]

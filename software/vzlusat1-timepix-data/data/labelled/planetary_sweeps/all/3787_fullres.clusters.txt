@@ -1,0 +1,157 @@
+[
+{
+  "pos_x": 0, 
+  "pos_y": 154, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 7.14
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 19, 
+  "pos_y": 171, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 7.52
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 13.0
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 4.56
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 32, 
+  "pos_y": 78, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 9.69
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 47.28
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 71, 
+  "pos_y": 234, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 4.25
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 10.77
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 7.77
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 83, 
+  "pos_y": 122, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 8.24
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 112, 
+  "pos_y": 50, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 8.58
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 133, 
+  "pos_y": 225, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 8.97
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 74.96
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 233, 
+  "pos_y": 173, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 35.53
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 29.54
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+}
+]

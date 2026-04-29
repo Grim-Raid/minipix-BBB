@@ -1,0 +1,152 @@
+[
+{
+  "pos_x": 97, 
+  "pos_y": 20, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 6.71
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 113, 
+  "pos_y": 37, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 4.16
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 5.14
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 135, 
+  "pos_y": 209, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 27.09
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 147, 
+  "pos_y": 200, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 26.48
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 5.75
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 133.0
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 6.59
+    }, 
+    {
+      "y": 1, 
+      "x": 2, 
+      "value": 3.64
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 225, 
+  "pos_y": 219, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 4.23
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 7.86
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 241, 
+  "pos_y": 90, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 25.36
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 113.58
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 22.32
+    }, 
+    {
+      "y": 0, 
+      "x": 2, 
+      "value": 8.62
+    }, 
+    {
+      "y": 1, 
+      "x": 2, 
+      "value": 144.2
+    }, 
+    {
+      "y": 1, 
+      "x": 3, 
+      "value": 69.56
+    }, 
+    {
+      "y": 2, 
+      "x": 3, 
+      "value": 6.51
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_lowres", 
+    "cluster_class": 9
+  }
+}
+]

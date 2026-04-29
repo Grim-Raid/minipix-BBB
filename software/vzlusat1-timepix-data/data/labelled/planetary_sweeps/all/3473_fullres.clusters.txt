@@ -1,0 +1,157 @@
+[
+{
+  "pos_x": 1, 
+  "pos_y": 188, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 4.61
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 4.69
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 31, 
+  "pos_y": 85, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 5.7
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 7.12
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 38, 
+  "pos_y": 201, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 13.08
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 7.01
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 90, 
+  "pos_y": 89, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 14.95
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 28.68
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 126, 
+  "pos_y": 52, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 5.25
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 188, 
+  "pos_y": 160, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 5.82
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 21.47
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 194, 
+  "pos_y": 202, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 16.19
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 5.44
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 7.45
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 197, 
+  "pos_y": 167, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 3.33
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+}
+]

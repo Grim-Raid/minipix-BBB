@@ -1,0 +1,32 @@
+[
+{
+  "pos_x": 15, 
+  "pos_y": 45, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 5.24
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 249, 
+  "pos_y": 103, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 3.81
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+}
+]

@@ -1,0 +1,157 @@
+[
+{
+  "pos_x": 69, 
+  "pos_y": 72, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 8.21
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 10.85
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 93, 
+  "pos_y": 238, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 140.13
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 112, 
+  "pos_y": 50, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 126.54
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 140, 
+  "pos_y": 143, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 20.67
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 178, 
+  "pos_y": 205, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 3.77
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 11.98
+    }, 
+    {
+      "y": 2, 
+      "x": 0, 
+      "value": 12.05
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 6.07
+    }, 
+    {
+      "y": 3, 
+      "x": 1, 
+      "value": 14.11
+    }, 
+    {
+      "y": 4, 
+      "x": 1, 
+      "value": 8.54
+    }, 
+    {
+      "y": 4, 
+      "x": 2, 
+      "value": 5.28
+    }, 
+    {
+      "y": 5, 
+      "x": 2, 
+      "value": 15.15
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_curly", 
+    "cluster_class": 6
+  }
+},
+{
+  "pos_x": 181, 
+  "pos_y": 207, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 5.33
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 5.94
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 18.47
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 12.75
+    }, 
+    {
+      "y": 3, 
+      "x": 2, 
+      "value": 16.63
+    }, 
+    {
+      "y": 4, 
+      "x": 2, 
+      "value": 16.66
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_curly", 
+    "cluster_class": 6
+  }
+}
+]

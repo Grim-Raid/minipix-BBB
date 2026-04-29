@@ -1,0 +1,32 @@
+[
+{
+  "pos_x": 58, 
+  "pos_y": 78, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 24.62
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 6.02
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 13.84
+    }, 
+    {
+      "y": 1, 
+      "x": 2, 
+      "value": 18.5
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_lowres", 
+    "cluster_class": 9
+  }
+}
+]

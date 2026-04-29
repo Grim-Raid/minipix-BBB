@@ -1,0 +1,152 @@
+[
+{
+  "pos_x": 14, 
+  "pos_y": 89, 
+  "pixels": [
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 130.56
+    }, 
+    {
+      "y": 2, 
+      "x": 0, 
+      "value": 19.23
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 3.22
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 127.24
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 78.08
+    }, 
+    {
+      "y": 1, 
+      "x": 2, 
+      "value": 3.4
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 69, 
+  "pos_y": 167, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 3.3
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 72.01
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 7.4
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 112, 
+  "pos_y": 50, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 2.76
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 168, 
+  "pos_y": 250, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 20.97
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 220, 
+  "pos_y": 220, 
+  "pixels": [
+    {
+      "y": 3, 
+      "x": 0, 
+      "value": 16.6
+    }, 
+    {
+      "y": 3, 
+      "x": 1, 
+      "value": 9.94
+    }, 
+    {
+      "y": 2, 
+      "x": 2, 
+      "value": 14.96
+    }, 
+    {
+      "y": 2, 
+      "x": 3, 
+      "value": 21.09
+    }, 
+    {
+      "y": 1, 
+      "x": 4, 
+      "value": 13.35
+    }, 
+    {
+      "y": 1, 
+      "x": 5, 
+      "value": 98.34
+    }, 
+    {
+      "y": 0, 
+      "x": 6, 
+      "value": 18.0
+    }, 
+    {
+      "y": 1, 
+      "x": 6, 
+      "value": 3.07
+    }, 
+    {
+      "y": 0, 
+      "x": 7, 
+      "value": 5.73
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_straight", 
+    "cluster_class": 5
+  }
+}
+]

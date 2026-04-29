@@ -1,0 +1,157 @@
+[
+{
+  "pos_x": 66, 
+  "pos_y": 204, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 82.43
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 4.24
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 8.89
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 73, 
+  "pos_y": 254, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 3.86
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 95, 
+  "pos_y": 183, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 5.24
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 145, 
+  "pos_y": 244, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 3.83
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 206, 
+  "pos_y": 214, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 5.44
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 7.37
+    }, 
+    {
+      "y": 0, 
+      "x": 2, 
+      "value": 4.45
+    }, 
+    {
+      "y": 1, 
+      "x": 3, 
+      "value": 6.69
+    }, 
+    {
+      "y": 1, 
+      "x": 4, 
+      "value": 8.92
+    }, 
+    {
+      "y": 1, 
+      "x": 5, 
+      "value": 7.63
+    }, 
+    {
+      "y": 2, 
+      "x": 6, 
+      "value": 5.97
+    }, 
+    {
+      "y": 2, 
+      "x": 7, 
+      "value": 13.13
+    }, 
+    {
+      "y": 2, 
+      "x": 8, 
+      "value": 8.4
+    }, 
+    {
+      "y": 2, 
+      "x": 9, 
+      "value": 5.66
+    }, 
+    {
+      "y": 3, 
+      "x": 10, 
+      "value": 13.88
+    }, 
+    {
+      "y": 3, 
+      "x": 11, 
+      "value": 11.78
+    }, 
+    {
+      "y": 3, 
+      "x": 12, 
+      "value": 8.09
+    }, 
+    {
+      "y": 4, 
+      "x": 13, 
+      "value": 5.43
+    }, 
+    {
+      "y": 4, 
+      "x": 14, 
+      "value": 7.73
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_straight", 
+    "cluster_class": 5
+  }
+}
+]

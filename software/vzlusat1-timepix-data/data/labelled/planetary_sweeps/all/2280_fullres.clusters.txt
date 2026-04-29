@@ -1,0 +1,152 @@
+[
+{
+  "pos_x": 46, 
+  "pos_y": 211, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 7.4
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 82.99
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 56, 
+  "pos_y": 249, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 67.67
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 84.81
+    }, 
+    {
+      "y": 0, 
+      "x": 2, 
+      "value": 9.91
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_lowres", 
+    "cluster_class": 9
+  }
+},
+{
+  "pos_x": 70, 
+  "pos_y": 184, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 32.51
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 52.8
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 76, 
+  "pos_y": 151, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 14.42
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 135, 
+  "pos_y": 219, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 67.93
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 34.36
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 5.6
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 143, 
+  "pos_y": 38, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 9.64
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 39.87
+    }, 
+    {
+      "y": 0, 
+      "x": 2, 
+      "value": 31.06
+    }, 
+    {
+      "y": 1, 
+      "x": 3, 
+      "value": 40.26
+    }, 
+    {
+      "y": 2, 
+      "x": 3, 
+      "value": 25.45
+    }, 
+    {
+      "y": 1, 
+      "x": 4, 
+      "value": 15.85
+    }, 
+    {
+      "y": 2, 
+      "x": 4, 
+      "value": 8.14
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_branched", 
+    "cluster_class": 4
+  }
+}
+]

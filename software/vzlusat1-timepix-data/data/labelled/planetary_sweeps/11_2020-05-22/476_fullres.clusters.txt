@@ -1,0 +1,442 @@
+[
+{
+  "pos_x": 12, 
+  "pos_y": 199, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 6.75
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 8.38
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 44, 
+  "pos_y": 138, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 3.65
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 8.04
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 70, 
+  "pos_y": 201, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 13.57
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 5.32
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 122, 
+  "pos_y": 251, 
+  "pixels": [
+    {
+      "y": 2, 
+      "x": 0, 
+      "value": 3.03
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 140.6
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 140.94
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 135.25
+    }, 
+    {
+      "y": 3, 
+      "x": 1, 
+      "value": 146.53
+    }, 
+    {
+      "y": 2, 
+      "x": 2, 
+      "value": 134.7
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 136, 
+  "pos_y": 226, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 136.51
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 35.09
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 122.46
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 90.18
+    }, 
+    {
+      "y": 1, 
+      "x": 2, 
+      "value": 130.15
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 141, 
+  "pos_y": 230, 
+  "pixels": [
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 136.05
+    }, 
+    {
+      "y": 2, 
+      "x": 0, 
+      "value": 128.53
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 135.68
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 137.2
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 135.73
+    }, 
+    {
+      "y": 3, 
+      "x": 1, 
+      "value": 143.27
+    }, 
+    {
+      "y": 1, 
+      "x": 2, 
+      "value": 140.93
+    }, 
+    {
+      "y": 2, 
+      "x": 2, 
+      "value": 135.9
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_big", 
+    "cluster_class": 3
+  }
+},
+{
+  "pos_x": 145, 
+  "pos_y": 229, 
+  "pixels": [
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 133.62
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 126.69
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 143.29
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 136.76
+    }, 
+    {
+      "y": 1, 
+      "x": 2, 
+      "value": 134.29
+    }, 
+    {
+      "y": 2, 
+      "x": 2, 
+      "value": 134.74
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 145, 
+  "pos_y": 255, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 127.27
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 136.55
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 155, 
+  "pos_y": 221, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 144.1
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 133.8
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 131.91
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 141.62
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 155, 
+  "pos_y": 243, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 132.52
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 42.9
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 158, 
+  "pos_y": 223, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 141.73
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 136.64
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 126.09
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 126.71
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 161, 
+  "pos_y": 213, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 132.59
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 131.87
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 161, 
+  "pos_y": 236, 
+  "pixels": [
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 128.16
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 130.87
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 134.21
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 170, 
+  "pos_y": 224, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 3.58
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 173, 
+  "pos_y": 209, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 138.87
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 142.16
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 183, 
+  "pos_y": 42, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 5.93
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 186, 
+  "pos_y": 29, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 6.4
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 15.87
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+}
+]

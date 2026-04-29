@@ -1,0 +1,72 @@
+[
+{
+  "pos_x": 25, 
+  "pos_y": 198, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 78.31
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 69, 
+  "pos_y": 177, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 36.76
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 249, 
+  "pos_y": 177, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 8.47
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 13.91
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 10.81
+    }, 
+    {
+      "y": 3, 
+      "x": 1, 
+      "value": 6.83
+    }, 
+    {
+      "y": 4, 
+      "x": 2, 
+      "value": 8.45
+    }, 
+    {
+      "y": 5, 
+      "x": 2, 
+      "value": 10.22
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_curly", 
+    "cluster_class": 6
+  }
+}
+]

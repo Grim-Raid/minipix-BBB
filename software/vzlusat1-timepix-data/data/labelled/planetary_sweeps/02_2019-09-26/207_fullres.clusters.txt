@@ -1,0 +1,172 @@
+[
+{
+  "pos_x": 60, 
+  "pos_y": 73, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 6.7
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 134, 
+  "pos_y": 179, 
+  "pixels": [
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 8.88
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 68.56
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 27.73
+    }
+  ], 
+  "cluster_class": {
+    "name": "blob_small", 
+    "cluster_class": 2
+  }
+},
+{
+  "pos_x": 210, 
+  "pos_y": 219, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 16.13
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 8.44
+    }, 
+    {
+      "y": 2, 
+      "x": 0, 
+      "value": 7.75
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 6.54
+    }, 
+    {
+      "y": 3, 
+      "x": 1, 
+      "value": 17.5
+    }, 
+    {
+      "y": 4, 
+      "x": 1, 
+      "value": 15.09
+    }, 
+    {
+      "y": 5, 
+      "x": 1, 
+      "value": 7.26
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_lowres", 
+    "cluster_class": 9
+  }
+},
+{
+  "pos_x": 243, 
+  "pos_y": 85, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 20.97
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 10.99
+    }, 
+    {
+      "y": 2, 
+      "x": 2, 
+      "value": 6.43
+    }, 
+    {
+      "y": 2, 
+      "x": 3, 
+      "value": 7.08
+    }, 
+    {
+      "y": 3, 
+      "x": 4, 
+      "value": 11.9
+    }, 
+    {
+      "y": 4, 
+      "x": 5, 
+      "value": 9.84
+    }, 
+    {
+      "y": 4, 
+      "x": 6, 
+      "value": 8.37
+    }, 
+    {
+      "y": 5, 
+      "x": 6, 
+      "value": 3.84
+    }, 
+    {
+      "y": 5, 
+      "x": 7, 
+      "value": 13.4
+    }, 
+    {
+      "y": 6, 
+      "x": 8, 
+      "value": 18.9
+    }, 
+    {
+      "y": 6, 
+      "x": 9, 
+      "value": 4.17
+    }, 
+    {
+      "y": 7, 
+      "x": 9, 
+      "value": 7.97
+    }, 
+    {
+      "y": 7, 
+      "x": 10, 
+      "value": 10.28
+    }, 
+    {
+      "y": 8, 
+      "x": 11, 
+      "value": 16.18
+    }, 
+    {
+      "y": 9, 
+      "x": 12, 
+      "value": 7.15
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_straight", 
+    "cluster_class": 5
+  }
+}
+]

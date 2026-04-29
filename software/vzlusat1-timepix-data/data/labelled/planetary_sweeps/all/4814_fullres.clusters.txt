@@ -1,0 +1,57 @@
+[
+{
+  "pos_x": 15, 
+  "pos_y": 240, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 5.7
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 10.39
+    }, 
+    {
+      "y": 0, 
+      "x": 2, 
+      "value": 4.89
+    }, 
+    {
+      "y": 1, 
+      "x": 2, 
+      "value": 8.96
+    }, 
+    {
+      "y": 1, 
+      "x": 3, 
+      "value": 9.54
+    }, 
+    {
+      "y": 1, 
+      "x": 4, 
+      "value": 44.98
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_lowres", 
+    "cluster_class": 9
+  }
+},
+{
+  "pos_x": 112, 
+  "pos_y": 50, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 126.54
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+}
+]
