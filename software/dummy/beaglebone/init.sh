@@ -16,33 +16,31 @@ set -e
 MY_PATH=`dirname "$0"`
 MY_PATH=`( cd "$MY_PATH" && pwd )`
 
-UART_DEV="/dev/ttyO1"
+UART_DEV="/dev/ttyS1"
 BAUD_RATE=921600
 DEFAULT_DATA="${MY_PATH}/../../vzlusat1-timepix-data/data/raw/above_europe"
 DATA_FOLDER="${1:-$DEFAULT_DATA}"
 
 # ---------------------------------------------------------------------------
-# 1. Configure UART1 pin mux
+# 1. Check UART1 device and dialout group membership
 # ---------------------------------------------------------------------------
 
-if ! command -v config-pin &>/dev/null; then
-  echo "ERROR: config-pin not found. Install it with:"
-  echo "  sudo apt-get install bb-cape-overlays"
-  exit 1
-fi
-
-echo "Configuring UART1 pins (P9_24 TX, P9_26 RX)..."
-config-pin P9_24 uart
-config-pin P9_26 uart
-
-echo "Pin mux set. Verifying device ${UART_DEV}..."
+# On kernel 6.x the BB-UART1 overlay loaded via /boot/uEnv.txt handles pin
+# mux at boot — no config-pin needed.
 if [ ! -c "${UART_DEV}" ]; then
-  echo "ERROR: ${UART_DEV} not found after pin configuration."
-  echo "Make sure the UART1 overlay is enabled. On older images try:"
-  echo "  echo BB-UART1 | sudo tee /sys/devices/platform/bone_capemgr/slots"
+  echo "ERROR: ${UART_DEV} not found."
+  echo "Make sure BB-UART1-00A0.dtbo is enabled in /boot/uEnv.txt and reboot."
   exit 1
 fi
 echo "${UART_DEV} is present."
+
+if ! id -nG "$USER" | grep -qw dialout; then
+  echo "WARNING: $USER is not in the dialout group. Adding now (requires sudo)..."
+  sudo usermod -a -G dialout "$USER"
+  echo "Group added. You may need to log out and back in, or run: newgrp dialout"
+  echo "Re-run this script after rejoining the group."
+  exit 0
+fi
 
 # ---------------------------------------------------------------------------
 # 2. Build the dummy if the binary is not already up to date
