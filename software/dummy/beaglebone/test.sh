@@ -28,7 +28,7 @@ TTY3=/tmp/ttyBBtest3
 
 DUMMY_BIN="$BUILD_PATH/dummy/beaglebone/minipix_dummy_bbb"
 IFACE_BIN="$BUILD_PATH/example_interface/linux/example_interface"
-GATHERER_BIN="$BUILD_PATH/gatherer/gatherer_tot_toa"
+GATHERER_BIN="$BUILD_PATH/gatherer/gatherer"
 
 # ---------------------------------------------------------------------------
 # Cleanup on exit
@@ -103,7 +103,7 @@ IFACE_PID=$!
 
 sleep 1.0
 echo "Starting gatherer on $TTY3 — collecting $FRAME_COUNT frames..."
-"$GATHERER_BIN" "$TTY3" "$BAUD_RATE" 1 "$OUT_FILE" "$FRAME_TIME" "$FRAME_COUNT" 1
+"$GATHERER_BIN" "$TTY3" "$BAUD_RATE" 1 "$OUT_FILE" "$FRAME_COUNT" "$FRAME_TIME"
 
 # ---------------------------------------------------------------------------
 # 6. Validate output

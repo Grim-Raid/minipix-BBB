@@ -14,24 +14,32 @@ int main(int argc, char* argv[]) {
   int         baud_rate;
   bool        serial_port_virtual;
   std::string data_path;
+  int         frame_count  = 10;
+  int         acq_time_ms  = 250;
 
-  if (argc == 5) {
+  if (argc >= 5) {
 
     serial_port_file    = argv[1];
     baud_rate           = atoi(argv[2]);
     serial_port_virtual = atoi(argv[3]);
     data_path           = argv[4];
 
+    if (argc >= 6) frame_count = atoi(argv[5]);
+    if (argc >= 7) acq_time_ms = atoi(argv[6]);
+
     printf(
         "loaded params: \n \
 serial port: '%s'\n \
 baud rate: '%d'\n \
 serial port is: '%s'\n \
-output data path: '%s'\n",
-        serial_port_file.c_str(), baud_rate, serial_port_virtual ? "virtual" : "real", data_path.c_str());
+output data path: '%s'\n \
+frame count: '%d'\n \
+acq time [ms]: '%d'\n",
+        serial_port_file.c_str(), baud_rate, serial_port_virtual ? "virtual" : "real",
+        data_path.c_str(), frame_count, acq_time_ms);
   } else {
     printf("params not supplied!\n");
-    printf("required: ./gatherer <serial port file> <baud rate> <serial port virtual ? true : false> <output data path>\n");
+    printf("required: ./gatherer <serial port> <baud rate> <virtual> <output path> [frame count] [acq time ms]\n");
     return 0;
   }
 
@@ -90,27 +98,10 @@ output data path: '%s'\n",
 
   sleep(0.01);
 
-  // | ----------- measure 10 frames in TOA & TOT mode ---------- |
-  for (int i = 0; i < 10; i++) {
+  for (int i = 0; i < frame_count; i++) {
 
-    printf("measuring frame in TOA TOT\n");
-    gatherer.measureFrame(2000, LLCP_TPX3_PXL_MODE_TOA_TOT);
-    sleep(0.01);
-  }
-
-  // | -------------- measure 10 frames in TOA mode ------------- |
-  for (int i = 0; i < 10; i++) {
-
-    printf("measuring frame in TOA\n");
-    gatherer.measureFrame(100, LLCP_TPX3_PXL_MODE_TOA);
-    sleep(0.01);
-  }
-
-  // | ---------- measure 10 frames in MPC & ITOT mode ---------- |
-  for (int i = 0; i < 10; i++) {
-
-    printf("measuring frame in MPX ITOT\n");
-    gatherer.measureFrame(100, LLCP_TPX3_PXL_MODE_MPX_ITOT);
+    printf("measuring frame %d/%d in TOA_TOT mode\n", i + 1, frame_count);
+    gatherer.measureFrame(acq_time_ms, LLCP_TPX3_PXL_MODE_TOA_TOT);
     sleep(0.01);
   }
 
