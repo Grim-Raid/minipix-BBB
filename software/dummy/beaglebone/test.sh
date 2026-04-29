@@ -27,7 +27,7 @@ TTY2=/tmp/ttyBBtest2
 TTY3=/tmp/ttyBBtest3
 
 DUMMY_BIN="$BUILD_PATH/dummy/beaglebone/minipix_dummy_bbb"
-IFACE_BIN="$BUILD_PATH/example_interface/linux/example_interface_linux"
+IFACE_BIN="$BUILD_PATH/example_interface/linux/example_interface"
 GATHERER_BIN="$BUILD_PATH/gatherer/gatherer_tot_toa"
 
 # ---------------------------------------------------------------------------
