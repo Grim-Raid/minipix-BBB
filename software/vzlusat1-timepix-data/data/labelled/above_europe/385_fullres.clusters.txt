@@ -1,0 +1,442 @@
+[
+{
+  "pos_x": 0, 
+  "pos_y": 42, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 6.1
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 0, 
+  "pos_y": 59, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 12.75
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 12.34
+    }, 
+    {
+      "y": 0, 
+      "x": 2, 
+      "value": 10.0
+    }, 
+    {
+      "y": 0, 
+      "x": 3, 
+      "value": 10.03
+    }, 
+    {
+      "y": 0, 
+      "x": 4, 
+      "value": 8.72
+    }, 
+    {
+      "y": 0, 
+      "x": 5, 
+      "value": 12.34
+    }, 
+    {
+      "y": 0, 
+      "x": 6, 
+      "value": 9.31
+    }, 
+    {
+      "y": 0, 
+      "x": 7, 
+      "value": 9.63
+    }, 
+    {
+      "y": 0, 
+      "x": 8, 
+      "value": 8.34
+    }, 
+    {
+      "y": 0, 
+      "x": 9, 
+      "value": 10.17
+    }, 
+    {
+      "y": 0, 
+      "x": 10, 
+      "value": 24.88
+    }, 
+    {
+      "y": 0, 
+      "x": 11, 
+      "value": 11.08
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_straight", 
+    "cluster_class": 5
+  }
+},
+{
+  "pos_x": 19, 
+  "pos_y": 213, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 3.68
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 121, 
+  "pos_y": 237, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 40.94
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 5.82
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 130, 
+  "pos_y": 236, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 12.02
+    }, 
+    {
+      "y": 0, 
+      "x": 1, 
+      "value": 28.01
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 5.5
+    }, 
+    {
+      "y": 1, 
+      "x": 2, 
+      "value": 39.37
+    }, 
+    {
+      "y": 1, 
+      "x": 3, 
+      "value": 40.26
+    }, 
+    {
+      "y": 2, 
+      "x": 3, 
+      "value": 5.11
+    }, 
+    {
+      "y": 1, 
+      "x": 4, 
+      "value": 2.95
+    }, 
+    {
+      "y": 2, 
+      "x": 4, 
+      "value": 66.86
+    }, 
+    {
+      "y": 2, 
+      "x": 5, 
+      "value": 57.11
+    }, 
+    {
+      "y": 3, 
+      "x": 5, 
+      "value": 4.98
+    }, 
+    {
+      "y": 2, 
+      "x": 6, 
+      "value": 3.77
+    }, 
+    {
+      "y": 3, 
+      "x": 6, 
+      "value": 73.02
+    }, 
+    {
+      "y": 3, 
+      "x": 7, 
+      "value": 129.58
+    }, 
+    {
+      "y": 4, 
+      "x": 7, 
+      "value": 16.4
+    }, 
+    {
+      "y": 3, 
+      "x": 8, 
+      "value": 2.89
+    }, 
+    {
+      "y": 4, 
+      "x": 8, 
+      "value": 55.43
+    }, 
+    {
+      "y": 4, 
+      "x": 9, 
+      "value": 48.87
+    }, 
+    {
+      "y": 4, 
+      "x": 10, 
+      "value": 28.65
+    }, 
+    {
+      "y": 5, 
+      "x": 10, 
+      "value": 81.59
+    }, 
+    {
+      "y": 5, 
+      "x": 11, 
+      "value": 29.58
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_straight", 
+    "cluster_class": 5
+  }
+},
+{
+  "pos_x": 208, 
+  "pos_y": 245, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 5.47
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 6.19
+    }, 
+    {
+      "y": 2, 
+      "x": 0, 
+      "value": 7.48
+    }, 
+    {
+      "y": 3, 
+      "x": 0, 
+      "value": 7.66
+    }, 
+    {
+      "y": 4, 
+      "x": 0, 
+      "value": 6.3
+    }, 
+    {
+      "y": 5, 
+      "x": 0, 
+      "value": 6.29
+    }, 
+    {
+      "y": 6, 
+      "x": 0, 
+      "value": 12.27
+    }, 
+    {
+      "y": 7, 
+      "x": 0, 
+      "value": 7.81
+    }, 
+    {
+      "y": 8, 
+      "x": 0, 
+      "value": 6.15
+    }, 
+    {
+      "y": 9, 
+      "x": 0, 
+      "value": 9.7
+    }, 
+    {
+      "y": 10, 
+      "x": 0, 
+      "value": 7.87
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 4.6
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_straight", 
+    "cluster_class": 5
+  }
+},
+{
+  "pos_x": 209, 
+  "pos_y": 237, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 9.41
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 7.45
+    }, 
+    {
+      "y": 2, 
+      "x": 0, 
+      "value": 13.92
+    }, 
+    {
+      "y": 3, 
+      "x": 0, 
+      "value": 8.59
+    }, 
+    {
+      "y": 4, 
+      "x": 0, 
+      "value": 9.82
+    }, 
+    {
+      "y": 5, 
+      "x": 0, 
+      "value": 6.72
+    }, 
+    {
+      "y": 6, 
+      "x": 0, 
+      "value": 5.38
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_straight", 
+    "cluster_class": 5
+  }
+},
+{
+  "pos_x": 222, 
+  "pos_y": 158, 
+  "pixels": [
+    {
+      "y": 3, 
+      "x": 0, 
+      "value": 19.78
+    }, 
+    {
+      "y": 4, 
+      "x": 0, 
+      "value": 5.55
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 19.71
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 18.81
+    }, 
+    {
+      "y": 3, 
+      "x": 1, 
+      "value": 4.39
+    }, 
+    {
+      "y": 0, 
+      "x": 2, 
+      "value": 8.43
+    }, 
+    {
+      "y": 1, 
+      "x": 2, 
+      "value": 14.45
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_curly", 
+    "cluster_class": 6
+  }
+},
+{
+  "pos_x": 247, 
+  "pos_y": 229, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 9.7
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 5.71
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 11.29
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 37.97
+    }, 
+    {
+      "y": 3, 
+      "x": 1, 
+      "value": 9.09
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_lowres", 
+    "cluster_class": 9
+  }
+},
+{
+  "pos_x": 255, 
+  "pos_y": 252, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 19.86
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+}
+]

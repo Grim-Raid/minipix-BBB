@@ -1,0 +1,297 @@
+[
+{
+  "pos_x": 35, 
+  "pos_y": 23, 
+  "pixels": [
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 10.15
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 15.38
+    }, 
+    {
+      "y": 1, 
+      "x": 2, 
+      "value": 7.43
+    }, 
+    {
+      "y": 1, 
+      "x": 3, 
+      "value": 5.94
+    }, 
+    {
+      "y": 2, 
+      "x": 4, 
+      "value": 8.35
+    }, 
+    {
+      "y": 2, 
+      "x": 5, 
+      "value": 6.93
+    }, 
+    {
+      "y": 0, 
+      "x": 6, 
+      "value": 12.05
+    }, 
+    {
+      "y": 1, 
+      "x": 6, 
+      "value": 11.43
+    }, 
+    {
+      "y": 2, 
+      "x": 6, 
+      "value": 17.95
+    }, 
+    {
+      "y": 2, 
+      "x": 7, 
+      "value": 9.31
+    }, 
+    {
+      "y": 3, 
+      "x": 8, 
+      "value": 3.9
+    }, 
+    {
+      "y": 3, 
+      "x": 9, 
+      "value": 16.31
+    }, 
+    {
+      "y": 3, 
+      "x": 10, 
+      "value": 6.92
+    }, 
+    {
+      "y": 3, 
+      "x": 11, 
+      "value": 11.85
+    }, 
+    {
+      "y": 3, 
+      "x": 12, 
+      "value": 11.11
+    }, 
+    {
+      "y": 4, 
+      "x": 13, 
+      "value": 8.46
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_curly", 
+    "cluster_class": 6
+  }
+},
+{
+  "pos_x": 83, 
+  "pos_y": 237, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 5.66
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 90, 
+  "pos_y": 219, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 9.48
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 90, 
+  "pos_y": 246, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 6.97
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 36.14
+    }
+  ], 
+  "cluster_class": {
+    "name": "dot", 
+    "cluster_class": 1
+  }
+},
+{
+  "pos_x": 135, 
+  "pos_y": 14, 
+  "pixels": [
+    {
+      "y": 0, 
+      "x": 0, 
+      "value": 7.09
+    }, 
+    {
+      "y": 1, 
+      "x": 0, 
+      "value": 7.7
+    }, 
+    {
+      "y": 4, 
+      "x": 0, 
+      "value": 9.16
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 7.56
+    }, 
+    {
+      "y": 4, 
+      "x": 1, 
+      "value": 39.39
+    }, 
+    {
+      "y": 2, 
+      "x": 2, 
+      "value": 9.13
+    }, 
+    {
+      "y": 4, 
+      "x": 2, 
+      "value": 13.21
+    }, 
+    {
+      "y": 2, 
+      "x": 3, 
+      "value": 6.36
+    }, 
+    {
+      "y": 3, 
+      "x": 3, 
+      "value": 8.56
+    }, 
+    {
+      "y": 4, 
+      "x": 3, 
+      "value": 8.35
+    }, 
+    {
+      "y": 3, 
+      "x": 4, 
+      "value": 32.53
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_curly", 
+    "cluster_class": 6
+  }
+},
+{
+  "pos_x": 173, 
+  "pos_y": 50, 
+  "pixels": [
+    {
+      "y": 2, 
+      "x": 0, 
+      "value": 15.83
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 7.24
+    }, 
+    {
+      "y": 1, 
+      "x": 2, 
+      "value": 9.64
+    }, 
+    {
+      "y": 1, 
+      "x": 3, 
+      "value": 7.82
+    }, 
+    {
+      "y": 1, 
+      "x": 4, 
+      "value": 5.14
+    }, 
+    {
+      "y": 0, 
+      "x": 5, 
+      "value": 6.57
+    }, 
+    {
+      "y": 0, 
+      "x": 6, 
+      "value": 8.81
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_straight", 
+    "cluster_class": 5
+  }
+},
+{
+  "pos_x": 201, 
+  "pos_y": 0, 
+  "pixels": [
+    {
+      "y": 3, 
+      "x": 0, 
+      "value": 12.22
+    }, 
+    {
+      "y": 4, 
+      "x": 0, 
+      "value": 12.26
+    }, 
+    {
+      "y": 1, 
+      "x": 1, 
+      "value": 5.82
+    }, 
+    {
+      "y": 2, 
+      "x": 1, 
+      "value": 14.77
+    }, 
+    {
+      "y": 3, 
+      "x": 1, 
+      "value": 6.28
+    }, 
+    {
+      "y": 0, 
+      "x": 2, 
+      "value": 11.64
+    }, 
+    {
+      "y": 1, 
+      "x": 2, 
+      "value": 40.53
+    }
+  ], 
+  "cluster_class": {
+    "name": "track_curly", 
+    "cluster_class": 6
+  }
+}
+]

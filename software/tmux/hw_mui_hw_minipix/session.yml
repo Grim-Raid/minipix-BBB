@@ -1,0 +1,8 @@
+name: hw_mui_hw_minipix
+root: ./
+startup_window: main
+windows:
+  - main:
+      layout: even-vertical
+      panes:
+        - ./gatherer /dev/minipix 921600 0 `pwd`/received_data/data.txt
